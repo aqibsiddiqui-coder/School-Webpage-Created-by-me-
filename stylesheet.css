@@ -14,8 +14,8 @@ h1 {
 }
 
 header {
-  background-color: rgb(235, 235, 235);
-  padding: 15px 30px;
+  background-color: rgb(243, 243, 243);
+  padding: 20px 40px;
   margin-bottom: 30px;
 }
 
@@ -26,7 +26,7 @@ header {
 
 h2 {
   font-family: "Franklin Gothic Medium", Arial, sans-serif;
-  font-size: 40px;
+  font-size: 42px;
   font-weight: bold;
   color: rgb(40, 91, 163);
   margin-bottom: 20px;
@@ -47,7 +47,7 @@ button {
   margin-bottom: 40px;
   margin-top: 5px;
   padding: 8px 10px;
-  background-color: rgb(235, 235, 235);
+  background-color: rgb(243, 243, 243);
   font-size: 18px;
   text-transform: none;
 }
@@ -81,7 +81,7 @@ a {
 
 p {
   font-size: 20px;
-  line-height: 28px;
+  line-height: 30px;
   color: rgb(101, 101, 101);
 }
 
@@ -97,7 +97,7 @@ h4 {
   padding: 0px 20px;
   color: rgb(101, 101, 101);
   font-size: 20px;
-  line-height: 28px;
+  line-height: 30px;
   list-style: square;
 }
 
@@ -114,6 +114,7 @@ h4 {
 
 .image {
   width: 600px;
+  margin-top: 20px;
 }
 
 footer p {
@@ -130,7 +131,7 @@ footer p {
 body {
   font-family: "Franklin Gothic Medium", Arial, sans-serif;
   background-color: rgb(255, 255, 255);
-  border-top: 8px solid rgb(40, 91, 163);
+  border-top: 10px solid rgb(40, 91, 163);
   width: 800px;
   margin-left: auto;
   margin-right: auto;
